@@ -1,5 +1,5 @@
 {
-  "name": "menuitem",
+  "name": "react_menuitem",
   "version": "1.0.0",
   "description": "React MenuItem component",
   "main": "dist/index.js",
